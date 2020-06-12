@@ -3,12 +3,19 @@
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
 * 人工智慧的任務
+  * 回歸
+  * 分類
+  * 分群
+  * 複雜性任務
 * 人工智慧的學習方法
+  * 非監督式學習
+  * 監督式學習
+  * 強化學習
 * Google Colab
 
 ## Class 02 機器學習 - 線性回歸 Linear-Regression
 * 參數與超參數(Parameters and Hyperparameters)
-* 損失函數(MSE)
+* 損失函數(Loss function): 均方誤差 (Mean-Square Error,MSE)
 * 梯度下降法(Gradient Descent, GD)
 * 學習速率(Learning Rate)
 * 批量梯度下降法(Batch Gradient Descent, BGD)
@@ -17,8 +24,21 @@
 * 線性回歸實作
 
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression
-
+* 邏輯/乙狀函數(Logistic / Sigmoid Function)
+* 最大似然函數(Maximum Likelihood Function)
+* 勝算比(Odds Ratio)
+* 正則化(Regularization)
+ 
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest
+* 決策樹架構
+  * 分支標準：交叉熵與基尼不純度
+  * 最大訊息增益量
+  * 剪枝：
+    * 預剪枝：
+    * 後剪枝：
+    
+  
+  
 
 ## Class 05 機器學習 - 自適應增強 AdaBoost
 
