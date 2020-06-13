@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-![GITHUB](https://miro.medium.com/max/3840/1*_wRL2vgOwXmj3ILvA_XyHg.jpeg)
+![GITHUB](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnJkzCtokVQRHPU6aIyICrZrbtwV7NWj70fOaEfue_ldjG2Rg&usqp=CAU)
 
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
