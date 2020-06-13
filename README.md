@@ -15,7 +15,7 @@
   * 強化學習
 * Google Colab
 
-
+---
 ## Class 02 機器學習 - 線性回歸 Linear-Regression
 * 參數與超參數(Parameters and Hyperparameters)
 * 損失函數(Loss function): 均方誤差 (Mean-Square Error,MSE)
