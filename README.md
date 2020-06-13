@@ -12,6 +12,7 @@
   * 監督式學習
   * 強化學習
 * Google Colab
+
 ![GITHUB](https://media.bnextmedia.com.tw/image/album/2018-05/img-1525261626-76512.jpg)
 
 ## Class 02 機器學習 - 線性回歸 Linear-Regression
