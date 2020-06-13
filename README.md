@@ -14,6 +14,7 @@
 * Google Colab
 
 ![GITHUB](https://media.bnextmedia.com.tw/image/album/2018-05/img-1525261626-76512.jpg)
+---
 
 ## Class 02 機器學習 - 線性回歸 Linear-Regression
 * 參數與超參數(Parameters and Hyperparameters)
@@ -24,9 +25,10 @@
 * 隨機梯度下降法(Stochastic Gradient Descent, SGD)
 * 小批量梯度下降法(Mini-batch Gradient Descent, MBGD)
 * 線性回歸實作
-### Homework 01 身體質量指數預測
+* **Homework 01 身體質量指數預測**
 
 ![GITHUB](https://uploads-ssl.webflow.com/589e47d231ee752554896f1f/5bbe8a21b56dd9f4c6c991bd_pd-blog-Getting-Started-with-Data-Analysis-in-Python-after-using-SQL-20181009-bl-01.jpg)
+---
 
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression
 * 邏輯/乙狀函數(Logistic / Sigmoid Function)
@@ -34,11 +36,12 @@
 * 勝算比(Odds Ratio)
 * 正則化(Regularization)
 * 邏輯回歸實作
-### Homework 02-1 數字手寫辨識
-### Homework 02-2 糖尿病預測
+* **Homework 02-1 數字手寫辨識**
+* **Homework 02-2 糖尿病預測**
 
 ![GITHUB](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
- 
+---
+
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest
 * 決策樹架構
   * 分支標準：交叉熵與基尼不純度
@@ -50,6 +53,7 @@
   * 集成學習(Ensemble learning)：裝袋(Bagging)、取樣
 
 ![GITHUB](https://miro.medium.com/max/1660/1*prkCMCIWiQLbGqghgJVkRw.png)
+---
 
 ## Class 05 機器學習 - 自適應增強 AdaBoost
 * 提升(Boosting)
@@ -61,6 +65,7 @@
 * 決策樹樁(Decision Stump)
 
 ![GITHUB](https://aiethics.hunnu.edu.cn/__local/5/21/B9/194EADAEAC3B989E1266986364C_6A4F4076_1165A.jpeg?e=.jpeg)
+---
 
 ## Class 06 深度學習 - 多層感知器 Multilayer perceptron
 * 深度神經網路：
