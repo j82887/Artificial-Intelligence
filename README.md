@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-![GITHUB](https://cdn-news.readmoo.com/wp-content/uploads/2017/06/artificial-intelligence-2167835_1280-1140x600.jpg)
+![GITHUB](https://www.edntaiwan.com/wp-content/uploads/sites/6/images/7447e8f3-110b-4a56-82e9-9cf540145331.gif)
 
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
