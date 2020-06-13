@@ -25,11 +25,15 @@
 * 小批量梯度下降法(Mini-batch Gradient Descent, MBGD)
 * 線性回歸實作
 
+![GITHUB](https://uploads-ssl.webflow.com/589e47d231ee752554896f1f/5bbe8a21b56dd9f4c6c991bd_pd-blog-Getting-Started-with-Data-Analysis-in-Python-after-using-SQL-20181009-bl-01.jpg)
+
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression
 * 邏輯/乙狀函數(Logistic / Sigmoid Function)
 * 最大似然函數(Maximum Likelihood Function)
 * 勝算比(Odds Ratio)
 * 正則化(Regularization)
+
+![GITHUB](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
  
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest
 * 決策樹架構
