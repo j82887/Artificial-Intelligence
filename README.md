@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-![GITHUB](https://uploads-ssl.webflow.com/589e47d231ee752554896f1f/5bbe8a21b56dd9f4c6c991bd_pd-blog-Getting-Started-with-Data-Analysis-in-Python-after-using-SQL-20181009-bl-01.jpg)
+![GITHUB](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/142118334/original/5d67787fa487aca1a794019760355c66721eff10/do-python-programming-ai-and-machine-learning-tasks.jpg)
 
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
