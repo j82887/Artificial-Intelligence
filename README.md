@@ -45,9 +45,13 @@
 * 隨機森林架構
   * 集成學習(Ensemble learning)：裝袋(Bagging)、取樣
 
+![GITHUB](https://miro.medium.com/max/1660/1*prkCMCIWiQLbGqghgJVkRw.png)
+
 ## Class 05 機器學習 - 自適應增強 AdaBoost
 * 提升(Boosting)
 * 集成學習：重新加權訓練集 (Re-weighting Training Data)
+
+![GITHUB](https://i.dlpng.com/static/png/5446053-ppt-element-png-download-663521-free-transparent-big-data-png-big-data-png-900_540_preview.png)
 
 ## Class 06 深度學習 - 多層感知器 Multilayer perceptron
 * 深度神經網路：
@@ -60,6 +64,8 @@
 * 梯度消失
 * 激勵函數
 * 丟棄法
+
+![GITHUB](https://meethub.bnext.com.tw/wp-content/uploads/2018/04/AI-governance-lead-1038x584.jpg)
 
 ## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network
 * 卷積層
@@ -79,9 +85,15 @@
 * 自動提取特徵
 * 權重共享
 
+![GITHUB](https://pic4.zhimg.com/v2-c597f63b9a07a78fcb3d779537d19a8c_1200x500.jpg)
+
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder
 
+![GITHUB](https://cdn.imgbin.com/1/7/4/imgbin-digital-marketing-marketing-automation-inbound-marketing-process-automation-sd6ynydPMwdwzUYARXiaUvQCH.jpg)
+
 ## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network
+
+![GITHUB](https://getmsm.com/wp-content/uploads/2017/12/marketing-automation-hero.png)
 
 ## Class 10 分類模型的驗證指標
 * 混淆矩陣
@@ -100,11 +112,15 @@
   * K格交叉驗證
 * 學習曲線
 
+![GITHUB](https://codinginfinite.com/wp-content/uploads/2020/01/images.jpeg)
+
 ## Class 11 資料前處理 - 不均勻類別問題
 * 取樣
   * 欠取樣
   * 過取樣
 * 合成少數類別過取樣技術
+
+![GITHUB](https://d3t4nwcgmfrp9x.cloudfront.net/upload/solo-20-por-ciento-empresas-utilizan-bien-big-data-compras.jpg)
 
 ## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼
 * 特徵縮放
