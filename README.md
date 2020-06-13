@@ -27,7 +27,7 @@
 * 線性回歸實作
 * **Homework 01 身體質量指數預測**
 
-
+---
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression
 * 邏輯/乙狀函數(Logistic / Sigmoid Function)
 * 最大似然函數(Maximum Likelihood Function)
@@ -37,6 +37,7 @@
 * **Homework 02-1 數字手寫辨識**
 * **Homework 02-2 糖尿病預測**
 
+---
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest
 * 決策樹架構
   * 分支標準：交叉熵與基尼不純度
@@ -47,7 +48,7 @@
 * 隨機森林架構
   * 集成學習(Ensemble learning)：裝袋(Bagging)、取樣
 
-
+---
 ## Class 05 機器學習 - 自適應增強 AdaBoost
 * 提升(Boosting)
 * 自適應增強(Adaptive Boosting)
@@ -57,7 +58,7 @@
 * 弱分類器(Weak Classifier)
 * 決策樹樁(Decision Stump)
 
-
+---
 ## Class 06 深度學習 - 多層感知器 Multilayer perceptron
 * 深度神經網路：
   * 輸入層
@@ -70,7 +71,7 @@
 * 激勵函數
 * 丟棄法
 
-
+---
 ## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network
 * 卷積層
   * 濾波器/卷積核
@@ -89,13 +90,13 @@
 * 自動提取特徵
 * 權重共享
 
-
+---
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder
 
-
+---
 ## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network
 
-
+---
 ## Class 10 分類模型的驗證指標
 * 混淆矩陣
 * 準確度
@@ -113,14 +114,14 @@
   * K格交叉驗證
 * 學習曲線
 
-
+---
 ## Class 11 資料前處理 - 不均勻類別問題
 * 取樣
   * 欠取樣
   * 過取樣
 * 合成少數類別過取樣技術
 
-
+---
 ## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼
 * 特徵縮放
   * 重新縮放
@@ -129,14 +130,14 @@
   * 排序行編碼
   * 獨熱編碼 
   
-  
+---  
 ## Class 13 超參數搜索
 * 均格/網格搜索
 * 隨機搜索
 * 拉丁超立方抽樣
 * 貝葉斯優化
 
-
+---
 ## Class 14 梯度下降法的優化
 * 梯度下降法
 * 動量的梯度下降法
@@ -144,5 +145,5 @@
 * RMSProp
 * Adam
 
-
+---
 ## Class 15 機率模型的分類切點
