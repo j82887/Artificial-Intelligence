@@ -24,6 +24,7 @@
 * 隨機梯度下降法(Stochastic Gradient Descent, SGD)
 * 小批量梯度下降法(Mini-batch Gradient Descent, MBGD)
 * 線性回歸實作
+### Homework 01 身體質量指數預測
 
 ![GITHUB](https://uploads-ssl.webflow.com/589e47d231ee752554896f1f/5bbe8a21b56dd9f4c6c991bd_pd-blog-Getting-Started-with-Data-Analysis-in-Python-after-using-SQL-20181009-bl-01.jpg)
 
@@ -32,6 +33,9 @@
 * 最大似然函數(Maximum Likelihood Function)
 * 勝算比(Odds Ratio)
 * 正則化(Regularization)
+* 邏輯回歸實作
+### Homework 02-1 數字手寫辨識
+### Homework 02-2 糖尿病預測
 
 ![GITHUB](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
  
@@ -49,9 +53,14 @@
 
 ## Class 05 機器學習 - 自適應增強 AdaBoost
 * 提升(Boosting)
+* 自適應增強(Adaptive Boosting)
 * 集成學習：重新加權訓練集 (Re-weighting Training Data)
+  * 均勻權重(Uniform Weight)
+  * 非均勻權重(Non-uniform Weight)
+* 弱分類器(Weak Classifier)
+* 決策樹樁(Decision Stump)
 
-![GITHUB](https://i.dlpng.com/static/png/5446053-ppt-element-png-download-663521-free-transparent-big-data-png-big-data-png-900_540_preview.png)
+![GITHUB](https://aiethics.hunnu.edu.cn/__local/5/21/B9/194EADAEAC3B989E1266986364C_6A4F4076_1165A.jpeg?e=.jpeg)
 
 ## Class 06 深度學習 - 多層感知器 Multilayer perceptron
 * 深度神經網路：
