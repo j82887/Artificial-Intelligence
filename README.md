@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-![GITHUB](https://techtrunk.in/wp-content/uploads/2018/10/ML-Selflearning-course-on-machine-learning.jpg)
+![GITHUB](https://miro.medium.com/max/3840/1*_wRL2vgOwXmj3ILvA_XyHg.jpeg)
 
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
