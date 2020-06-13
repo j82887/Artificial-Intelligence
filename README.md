@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-![GITHUB](https://college.itri.org.tw/images/%E7%A7%91%E6%8A%80%E6%96%B0%E7%9F%A5/%E5%BE%9E%E6%99%BA%E8%83%BD%E5%B1%A4%E7%B4%9A_%E5%89%96%E6%9E%90AI%E8%88%87HI%E7%9A%84%E5%84%AA%E5%8B%A2.jpg)
+![GITHUB](https://cdn-news.readmoo.com/wp-content/uploads/2017/06/artificial-intelligence-2167835_1280-1140x600.jpg)
 
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
