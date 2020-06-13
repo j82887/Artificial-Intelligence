@@ -1,5 +1,7 @@
 # Artificial-Intelligence
 
+![GITHUB](https://uploads-ssl.webflow.com/589e47d231ee752554896f1f/5bbe8a21b56dd9f4c6c991bd_pd-blog-Getting-Started-with-Data-Analysis-in-Python-after-using-SQL-20181009-bl-01.jpg)
+
 ## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史
 * 人工智慧的任務
@@ -13,9 +15,6 @@
   * 強化學習
 * Google Colab
 
-![GITHUB](https://media.bnextmedia.com.tw/image/album/2018-05/img-1525261626-76512.jpg)
----
-
 ## Class 02 機器學習 - 線性回歸 Linear-Regression
 * 參數與超參數(Parameters and Hyperparameters)
 * 損失函數(Loss function): 均方誤差 (Mean-Square Error,MSE)
@@ -27,9 +26,6 @@
 * 線性回歸實作
 * **Homework 01 身體質量指數預測**
 
-![GITHUB](https://uploads-ssl.webflow.com/589e47d231ee752554896f1f/5bbe8a21b56dd9f4c6c991bd_pd-blog-Getting-Started-with-Data-Analysis-in-Python-after-using-SQL-20181009-bl-01.jpg)
----
-
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression
 * 邏輯/乙狀函數(Logistic / Sigmoid Function)
 * 最大似然函數(Maximum Likelihood Function)
@@ -38,9 +34,6 @@
 * 邏輯回歸實作
 * **Homework 02-1 數字手寫辨識**
 * **Homework 02-2 糖尿病預測**
-
-![GITHUB](https://itspresso.com/wp-content/uploads/2019/05/outsourcing-data-analysis.png)
----
 
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest
 * 決策樹架構
@@ -52,9 +45,6 @@
 * 隨機森林架構
   * 集成學習(Ensemble learning)：裝袋(Bagging)、取樣
 
-![GITHUB](https://miro.medium.com/max/1660/1*prkCMCIWiQLbGqghgJVkRw.png)
----
-
 ## Class 05 機器學習 - 自適應增強 AdaBoost
 * 提升(Boosting)
 * 自適應增強(Adaptive Boosting)
@@ -63,9 +53,6 @@
   * 非均勻權重(Non-uniform Weight)
 * 弱分類器(Weak Classifier)
 * 決策樹樁(Decision Stump)
-
-![GITHUB](https://aiethics.hunnu.edu.cn/__local/5/21/B9/194EADAEAC3B989E1266986364C_6A4F4076_1165A.jpeg?e=.jpeg)
----
 
 ## Class 06 深度學習 - 多層感知器 Multilayer perceptron
 * 深度神經網路：
@@ -78,8 +65,6 @@
 * 梯度消失
 * 激勵函數
 * 丟棄法
-
-![GITHUB](https://meethub.bnext.com.tw/wp-content/uploads/2018/04/AI-governance-lead-1038x584.jpg)
 
 ## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network
 * 卷積層
@@ -99,15 +84,9 @@
 * 自動提取特徵
 * 權重共享
 
-![GITHUB](https://pic4.zhimg.com/v2-c597f63b9a07a78fcb3d779537d19a8c_1200x500.jpg)
-
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder
 
-![GITHUB](https://cdn.imgbin.com/1/7/4/imgbin-digital-marketing-marketing-automation-inbound-marketing-process-automation-sd6ynydPMwdwzUYARXiaUvQCH.jpg)
-
 ## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network
-
-![GITHUB](https://getmsm.com/wp-content/uploads/2017/12/marketing-automation-hero.png)
 
 ## Class 10 分類模型的驗證指標
 * 混淆矩陣
@@ -126,15 +105,11 @@
   * K格交叉驗證
 * 學習曲線
 
-![GITHUB](https://codinginfinite.com/wp-content/uploads/2020/01/images.jpeg)
-
 ## Class 11 資料前處理 - 不均勻類別問題
 * 取樣
   * 欠取樣
   * 過取樣
 * 合成少數類別過取樣技術
-
-![GITHUB](https://d3t4nwcgmfrp9x.cloudfront.net/upload/solo-20-por-ciento-empresas-utilizan-bien-big-data-compras.jpg)
 
 ## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼
 * 特徵縮放
@@ -156,4 +131,5 @@
 * AdaGrad
 * RMSProp
 * Adam
+
 ## Class 15 機率模型的分類切點
