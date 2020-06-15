@@ -153,7 +153,7 @@
 
 ---
 ### 教材來源
-此教材由該作者(Chieh-Ming)統整，只提供教學或學習之的目的。
+此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
 
 * 台大電機系李弘毅教授 https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ
 * 台大電機系林軒田教授 https://www.csie.ntu.edu.tw/~htlin/mooc/
