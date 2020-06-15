@@ -47,6 +47,7 @@
     * 後剪枝(Post-pruning)
 * 隨機森林架構
   * 集成學習(Ensemble learning)：裝袋(Bagging)、取樣(Sampling)
+* **Homework 03 字母手寫辨識**
 
 ---
 ## Class 05 機器學習 - 自適應增強 AdaBoost
