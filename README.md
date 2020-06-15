@@ -16,7 +16,7 @@
 * Google Colab
 
 ---
-## Class 02 機器學習 - 線性回歸 Linear-Regression
+## Class 02 機器學習 - 線性回歸 Linear-Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/02_Linear-Regression/02_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.pdf)
 * 參數與超參數(Parameters and Hyperparameters)
 * 損失函數(Loss function): 均方誤差 (Mean-Square Error,MSE)
 * 梯度下降法(Gradient Descent, GD)
@@ -28,7 +28,7 @@
 * **Homework 01 身體質量指數預測**
 
 ---
-## Class 03 機器學習 - 邏輯回歸 Logistic Regression
+## Class 03 機器學習 - 邏輯回歸 Logistic Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/03_Logistic-Regression/03_%E9%82%8F%E8%BC%AF%E5%9B%9E%E6%AD%B8.pdf)
 * 邏輯/乙狀函數(Logistic / Sigmoid Function)
 * 最大似然函數(Maximum Likelihood Function)
 * 勝算比(Odds Ratio)
@@ -38,7 +38,7 @@
 * **Homework 02-2 糖尿病預測**
 
 ---
-## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest
+## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/04_Decision-Tree%26Random-Forest/04_%E6%B1%BA%E7%AD%96%E6%A8%B9%E8%88%87%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97.pdf)
 * 決策樹架構
   * 分支標準：交叉熵與基尼不純度(Cross-Entropy and Gini Impurity)
   * 最大訊息增益量(Information Gain)
