@@ -2,7 +2,7 @@
 
 ![GITHUB](https://www.edntaiwan.com/wp-content/uploads/sites/6/images/7447e8f3-110b-4a56-82e9-9cf540145331.gif)
 
-## **Class 01 人工智慧 Artificial-Intelligence**
+## Class 01 人工智慧 Artificial-Intelligence
 * 人工智慧發展史(The History of Artificial Intelligence)
 * 人工智慧的任務(The Basic Objective of Artificial Intelligence)
   * 回歸(Regression)
@@ -16,7 +16,7 @@
 * Google Colab
 
 ---
-## **Class 02 機器學習 - 線性回歸 Linear-Regression**
+## Class 02 機器學習 - 線性回歸 Linear-Regression
 * 參數與超參數(Parameters and Hyperparameters)
 * 損失函數(Loss function): 均方誤差 (Mean-Square Error,MSE)
 * 梯度下降法(Gradient Descent, GD)
