@@ -99,7 +99,7 @@
 ## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network
 
 ---
-## Class 10 分類模型的驗證指標
+## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation
 * 混淆矩陣(Confusion Matrix)
 * 準確度(Accuracy)
 * 特異度(Specificity)
@@ -117,35 +117,36 @@
 * 學習曲線(Learning Curve)
 
 ---
-## Class 11 資料前處理 - 不均勻類別問題
-* 取樣
-  * 欠取樣
-  * 過取樣
-* 合成少數類別過取樣技術
+## Class 11 資料前處理 - 不均勻類別問題 Class Imbalance Problems
+* 取樣(Sampling)
+  * 欠取樣(Under-sampling)
+  * 過取樣(Over-sampling)
+* 合成少數類別過取樣技術(Synthetic Minority Over-sampling Technique)
+* Tomek Link(T-Link)
 
 ---
-## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼
-* 特徵縮放
-  * 重新縮放
-  * 平均值正規化
-* 特徵處理/編碼
-  * 排序行編碼
-  * 獨熱編碼 
+## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼 Feature Scaling and One Hot Encoding
+* 特徵縮放(Feature Scaling)
+  * 重新縮放(Rescaling / Min-max Normalization)
+  * 平均值正規化(Mean Normalization)
+* 特徵處理/編碼(Feature Processing/Coding)
+  * 排序行編碼(Sequential Encoding)
+  * 獨熱編碼(One Hot Encoding)
   
 ---  
-## Class 13 超參數搜索
-* 均格/網格搜索
-* 隨機搜索
-* 拉丁超立方抽樣
-* 貝葉斯優化
+## Class 13 超參數搜索 Hyperparameter Search
+* 均格/網格搜索(Grid Search)
+* 隨機搜索(Random Search)
+* 拉丁超立方抽樣(Latin Hypercube Sampling, LHS)
+* 貝葉斯優化(Bayesian Optimization)
 
 ---
-## Class 14 梯度下降法的優化
-* 梯度下降法
-* 動量的梯度下降法
-* AdaGrad
-* RMSProp
-* Adam
+## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method
+* 梯度下降法(Gradient Descent)
+* 動量的梯度下降法(Gradient Descent with Momentum)
+* AdaGrad(Adaptive Gradient \)
+* RMSProp(Root Mean Square Prop)
+* Adam(Adaptive Moment Estimation)
 
 ---
 ## Class 15 機率模型的分類切點
