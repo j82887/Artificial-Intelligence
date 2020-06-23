@@ -94,9 +94,20 @@
 
 ---
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder
+* 編碼器(Encoder)
+* 解碼器(Decoder)
+* 去噪自編碼器(De-noising Auto-encoder)
+* 降維(Dimension Reduction)
+* 資料視覺化(Data Visualization)
+* 權重初始化(Weight Initialization)
 
 ---
 ## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network
+* 生成器(Generator) 
+* 鑑別器(Discriminator) 
+* 結構化學習(Structured Learning)
+  * Bottom-Up 
+  * Top-Down
 
 ---
 ## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation
