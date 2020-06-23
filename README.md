@@ -46,7 +46,7 @@
     * 預剪枝(Pre-pruning)
     * 後剪枝(Post-pruning)
 * 隨機森林架構
-  * 集成學習(Ensemble learning)：裝袋(Bagging)、取樣(Sampling)
+  * 集成學習(Ensemble Learning)：裝袋(Bagging)、取樣(Sampling)
 * 決策樹與隨機森林實作
 * **Homework 03 字母手寫辨識**
 
@@ -61,11 +61,11 @@
 * 決策樹樁(Decision Stump)
 
 ---
-## Class 06 深度學習 - 多層感知器 Multilayer perceptron
+## Class 06 深度學習 - 多層感知器 Multilayer Perceptron
 * 深度神經網路(Deep Neural Network)
   * 輸入層(Input Layer)
   * 隱藏層(Hidden Layer)
-  * 輸出層(Output layer)
+  * 輸出層(Output Layer)
 * 前向傳播(Forward Propagation)
 * 後向傳播(Backward Propagation)
 * 線性可分與線性不可分(Linear and Non-linear Separability)
@@ -81,7 +81,7 @@
   * 卷積/旋積(Convolution)
   * 填充(Padding)
   * 特徵圖(Feature Map)
-* 池化層(Pooling layer)
+* 池化層(Pooling Layer)
   * 局部最大池化(Local Max-pooling)
   * 局部平均池化(Local Avg-pooling)
   * 局部隨機池化(Local Ram-pooling)
@@ -89,7 +89,7 @@
   * 全域平均池化(Global Avg-pooling)
 * 全連接層(Fully Connected Layer)
   * Softmax
-* 自動提取特徵(Automatic feature extraction)
+* 自動提取特徵(Automatic Feature Extraction)
 * 權重共享(Shared Weight)
 
 ---
