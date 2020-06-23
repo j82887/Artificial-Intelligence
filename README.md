@@ -51,7 +51,7 @@
 * **Homework 03 字母手寫辨識**
 
 ---
-## Class 05 機器學習 - 自適應增強 AdaBoost
+## Class 05 機器學習 - 自適應增強 AdaBoost [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/05_AdaBoost/05_%E8%87%AA%E9%81%A9%E6%87%89%E5%A2%9E%E5%BC%B7.pdf)
 * 提升(Boosting)
 * 自適應增強(Adaptive Boosting)
 * 集成學習：重新加權訓練集 (Re-weighting Training Data)
@@ -61,7 +61,7 @@
 * 決策樹樁(Decision Stump)
 
 ---
-## Class 06 深度學習 - 多層感知器 Multilayer Perceptron
+## Class 06 深度學習 - 多層感知器 Multilayer Perceptron 
 * 深度神經網路(Deep Neural Network)
   * 輸入層(Input Layer)
   * 隱藏層(Hidden Layer)
@@ -72,9 +72,11 @@
 * 梯度消失(Vanishing Gradient)
 * 激勵函數(Activation Function)
 * 丟棄法(Dropout)
+* 多層感知器實作
+* **Homework **
 
 ---
-## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network
+## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
 * 卷積層(Convolution Layer)
   * 濾波器/卷積核(Filter/Convolution Kernel)
   * 遮罩/窗口(Mask)
@@ -91,9 +93,11 @@
   * Softmax
 * 自動提取特徵(Automatic Feature Extraction)
 * 權重共享(Shared Weight)
+* 卷積神經網路實作
+* **Homework Cifar100 CNN辨識**
 
 ---
-## Class 08 深度學習 - 自編碼器 Auto-Encoder
+## Class 08 深度學習 - 自編碼器 Auto-Encoder [PDF]
 * 編碼器(Encoder)
 * 解碼器(Decoder)
 * 去噪自編碼器(De-noising Auto-encoder)
@@ -102,7 +106,7 @@
 * 權重初始化(Weight Initialization)
 
 ---
-## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network
+## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network [PDF]
 * 生成器(Generator) 
 * 鑑別器(Discriminator) 
 * 結構化學習(Structured Learning)
@@ -110,7 +114,7 @@
   * Top-Down
 
 ---
-## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation
+## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation [PDF]
 * 混淆矩陣(Confusion Matrix)
 * 準確度(Accuracy)
 * 特異度(Specificity)
@@ -128,7 +132,7 @@
 * 學習曲線(Learning Curve)
 
 ---
-## Class 11 資料前處理 - 不均勻類別問題 Class Imbalance Problems
+## Class 11 資料前處理 - 不均勻類別問題 Class Imbalance Problems [PDF]
 * 取樣(Sampling)
   * 欠取樣(Under-sampling)
   * 過取樣(Over-sampling)
@@ -136,7 +140,7 @@
 * Tomek Link(T-Link)
 
 ---
-## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼 Feature Scaling and One Hot Encoding
+## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼 Feature Scaling and One Hot Encoding [PDF]
 * 特徵縮放(Feature Scaling)
   * 重新縮放(Rescaling / Min-max Normalization)
   * 平均值正規化(Mean Normalization)
@@ -145,14 +149,14 @@
   * 獨熱編碼(One Hot Encoding)
   
 ---  
-## Class 13 超參數搜索 Hyperparameter Search
+## Class 13 超參數搜索 Hyperparameter Search [PDF]
 * 均格/網格搜索(Grid Search)
 * 隨機搜索(Random Search)
 * 拉丁超立方抽樣(Latin Hypercube Sampling, LHS)
 * 貝葉斯優化(Bayesian Optimization)
 
 ---
-## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method
+## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method [PDF]
 * 梯度下降法(Gradient Descent)
 * 動量的梯度下降法(Gradient Descent with Momentum)
 * AdaGrad(Adaptive Gradient \)
@@ -160,7 +164,7 @@
 * Adam(Adaptive Moment Estimation)
 
 ---
-## Class 15 機率模型的分類切點
+## Class 15 機率模型的分類切點 [PDF]
 
 
 ---
