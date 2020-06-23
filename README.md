@@ -61,7 +61,7 @@
 * 決策樹樁(Decision Stump)
 
 ---
-## Class 06 深度學習 - 多層感知器 Multilayer Perceptron 
+## Class 06 深度學習 - 多層感知器 Multilayer Perceptron [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/06_Multilayer%20perceptron/06_%E5%A4%9A%E5%B1%A4%E6%84%9F%E7%9F%A5%E5%99%A8.pdf)
 * 深度神經網路(Deep Neural Network)
   * 輸入層(Input Layer)
   * 隱藏層(Hidden Layer)
