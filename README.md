@@ -73,7 +73,7 @@
 * 激勵函數(Activation Function)
 * 丟棄法(Dropout)
 * 多層感知器實作
-* **Homework **
+* **Homework 04 貓狗影像辨識**
 
 ---
 ## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
@@ -94,7 +94,7 @@
 * 自動提取特徵(Automatic Feature Extraction)
 * 權重共享(Shared Weight)
 * 卷積神經網路實作
-* **Homework Cifar100 CNN辨識**
+* **Homework 05 Cifar100 CNN辨識**
 
 ---
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder [PDF]
@@ -172,7 +172,7 @@
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
 
 * 台大電機系李弘毅教授 https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ
-* 台大電機系林軒田教授 https://www.csie.ntu.edu.tw/~htlin/mooc/
+* 台大資工系林軒田教授 https://www.csie.ntu.edu.tw/~htlin/mooc/
 * 莫凡 https://morvanzhou.github.io/
 * 彭彭 https://www.youtube.com/user/padalab
 * 大數軟體有限公司 https://www.youtube.com/channel/UCFdTiwvDjyc62DBWrlYDtlQ
