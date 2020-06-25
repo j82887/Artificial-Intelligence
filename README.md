@@ -172,7 +172,7 @@
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
 
 * 台大電機系李弘毅教授 https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ
-* 台大電機系林軒田教授 https://www.csie.ntu.edu.tw/~htlin/mooc/
+* 台大資工系林軒田教授 https://www.csie.ntu.edu.tw/~htlin/mooc/
 * 莫凡 https://morvanzhou.github.io/
 * 彭彭 https://www.youtube.com/user/padalab
 * 大數軟體有限公司 https://www.youtube.com/channel/UCFdTiwvDjyc62DBWrlYDtlQ
