@@ -4,11 +4,11 @@
 
 ## Class 01 人工智慧 Artificial-Intelligence [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/01_Artificial-Intelligence/01_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7.pdf)
 * 人工智慧發展史(The History of Artificial Intelligence)
-* 人工智慧的任務(The Basic Objective of Artificial Intelligence)
+* 人工智慧的任務(The Basic Objectives of Artificial Intelligence)
   * 回歸(Regression)
   * 分類(Classification)
   * 分群(Cluster)
-  * 複雜性任務
+  * 複雜性任務(Complicated Mission)
 * 人工智慧的學習方法
   * 非監督式學習(Unsupervised Learning)
   * 監督式學習(Supervised Learning)
@@ -18,7 +18,7 @@
 ---
 ## Class 02 機器學習 - 線性回歸 Linear-Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/02_Linear-Regression/02_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.pdf)
 * 參數與超參數(Parameters and Hyperparameters)
-* 損失函數(Loss function): 均方誤差 (Mean-Square Error,MSE)
+* 損失函數(Loss Function): 均方誤差 (Mean Squared Error,MSE)
 * 梯度下降法(Gradient Descent, GD)
 * 學習速率(Learning Rate)
 * 批量梯度下降法(Batch Gradient Descent, BGD)
@@ -41,7 +41,7 @@
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/04_Decision-Tree%26Random-Forest/04_%E6%B1%BA%E7%AD%96%E6%A8%B9%E8%88%87%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97.pdf)
 * 決策樹架構
   * 分支標準：交叉熵與基尼不純度(Cross-Entropy and Gini Impurity)
-  * 最大訊息增益量(Information Gain)
+  * 訊息增益量(Information Gain)
   * 剪枝(Pruning)
     * 預剪枝(Pre-pruning)
     * 後剪枝(Post-pruning)
@@ -54,7 +54,7 @@
 ## Class 05 機器學習 - 自適應增強 AdaBoost [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/05_AdaBoost/05_%E8%87%AA%E9%81%A9%E6%87%89%E5%A2%9E%E5%BC%B7.pdf)
 * 提升(Boosting)
 * 自適應增強(Adaptive Boosting)
-* 集成學習：重新加權訓練集 (Re-weighting Training Data)
+* 集成學習：重新加權訓練集 (Reweighting Training Data)
   * 均勻權重(Uniform Weight)
   * 非均勻權重(Non-uniform Weight)
 * 弱分類器(Weak Classifier)
@@ -78,17 +78,17 @@
 ---
 ## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
 * 卷積層(Convolution Layer)
-  * 濾波器/卷積核(Filter/Convolution Kernel)
+  * 濾波器/卷積核(Filter / Convolution Kernel)
   * 遮罩/窗口(Mask)
   * 卷積/旋積(Convolution)
   * 填充(Padding)
   * 特徵圖(Feature Map)
 * 池化層(Pooling Layer)
-  * 局部最大池化(Local Max-pooling)
-  * 局部平均池化(Local Avg-pooling)
-  * 局部隨機池化(Local Ram-pooling)
-  * 全域最大池化(Global Max-pooling)
-  * 全域平均池化(Global Avg-pooling)
+  * 局部最大池化(Local Maximum Pooling)
+  * 局部平均池化(Local Average Pooling)
+  * 局部隨機池化(Local Random Pooling)
+  * 全域最大池化(Global Maximum Pooling)
+  * 全域平均池化(Global Average Pooling)
 * 全連接層(Fully Connected Layer)
   * Softmax
 * 自動提取特徵(Automatic Feature Extraction)
@@ -100,7 +100,7 @@
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder [PDF]
 * 編碼器(Encoder)
 * 解碼器(Decoder)
-* 去噪自編碼器(De-noising Auto-encoder)
+* 去噪自編碼器(Denoising Auto-Encoder)
 * 降維(Dimension Reduction)
 * 資料視覺化(Data Visualization)
 * 權重初始化(Weight Initialization)
@@ -118,7 +118,7 @@
 * 混淆矩陣(Confusion Matrix)
 * 準確度(Accuracy)
 * 特異度(Specificity)
-* 敏感度/召回率(Sensitivity/Recall)
+* 敏感度/召回率(Sensitivity / Recall)
 * 精確度(Precision)
 * F1分數(F1 Score)
 * ROC曲線(Receiver Operating Characteristic Curve, ROC Curve)
@@ -128,7 +128,7 @@
   * 分層交叉驗證(Stratified Cross-validation, SCV)
   * 留一法交叉驗證(Leave One Out Cross-validation, LOOCV)
   * 隨機分割交叉驗證(Random Cross-validation, RCV)
-  * K格交叉驗證(k-fold Cross-validation)
+  * K格交叉驗證(K-fold Cross-validation)
 * 學習曲線(Learning Curve)
 
 ---
@@ -144,7 +144,7 @@
 * 特徵縮放(Feature Scaling)
   * 重新縮放(Rescaling / Min-max Normalization)
   * 平均值正規化(Mean Normalization)
-* 特徵處理/編碼(Feature Processing/Coding)
+* 特徵處理/編碼(Feature Processing / Coding)
   * 排序行編碼(Sequential Encoding)
   * 獨熱編碼(One Hot Encoding)
   
@@ -159,12 +159,12 @@
 ## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method [PDF]
 * 梯度下降法(Gradient Descent)
 * 動量的梯度下降法(Gradient Descent with Momentum)
-* AdaGrad(Adaptive Gradient \)
-* RMSProp(Root Mean Square Prop)
+* AdaGrad(Adaptive Gradient)
+* 均方根傳播(Root Mean Square Propagation, RMSProp)
 * Adam(Adaptive Moment Estimation)
 
 ---
-## Class 15 機率模型的分類切點 [PDF]
+## Class 15 分類器的機率切點 Probability Thresholds of Classifier [PDF]
 
 
 ---
