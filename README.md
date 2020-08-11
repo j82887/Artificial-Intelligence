@@ -97,7 +97,7 @@
 * **Homework 05 Cifar100 CNN辨識**
 
 ---
-## Class 08 深度學習 - 自編碼器 Auto-Encoder [PDF]
+## Class 08 深度學習 - 自編碼器 Auto-Encoder [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/08_Auto-Encoder/08_%E8%87%AA%E7%B7%A8%E7%A2%BC%E5%99%A8.pdf)
 * 編碼器(Encoder)
 * 解碼器(Decoder)
 * 去噪自編碼器(Denoising Auto-Encoder)
@@ -114,7 +114,7 @@
   * Top-Down
 
 ---
-## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation [PDF]
+## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/10_Classification-Model-Assessment-and-Validation/10_%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99.pdf)
 * 混淆矩陣(Confusion Matrix)
 * 準確度(Accuracy)
 * 特異度(Specificity)
@@ -132,7 +132,7 @@
 * 學習曲線(Learning Curve)
 
 ---
-## Class 11 資料前處理 - 不均勻類別問題 Class Imbalance Problems [PDF]
+## Class 11 資料前處理 - 不均勻類別問題 Class Imbalance Problems [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/11_Class-Imbalance-Problem/11_%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%20-%20%E4%B8%8D%E5%9D%87%E5%8B%BB%E9%A1%9E%E5%88%A5%E5%95%8F%E9%A1%8C.pdf)
 * 取樣(Sampling)
   * 欠取樣(Under-sampling)
   * 過取樣(Over-sampling)
@@ -140,7 +140,7 @@
 * Tomek Link(T-Link)
 
 ---
-## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼 Feature Scaling and One Hot Encoding [PDF]
+## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼 Feature Scaling and One Hot Encoding [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/12_Feature-Scaling_and_One-Hot-Encoding/12_%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%20-%20%E7%89%B9%E5%BE%B5%E7%B8%AE%E6%94%BE%E8%88%87%E7%8D%A8%E7%86%B1%E7%B7%A8%E7%A2%BC.pdf)
 * 特徵縮放(Feature Scaling)
   * 重新縮放(Rescaling / Min-max Normalization)
   * 平均值正規化(Mean Normalization)
@@ -149,14 +149,14 @@
   * 獨熱編碼(One Hot Encoding)
   
 ---  
-## Class 13 超參數搜索 Hyperparameter Search [PDF]
+## Class 13 超參數搜索 Hyperparameter Search [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/13_Hyperparameter-Search/13_%E8%B6%85%E5%8F%83%E6%95%B8%E6%90%9C%E7%B4%A2.pdf)
 * 均格/網格搜索(Grid Search)
 * 隨機搜索(Random Search)
 * 拉丁超立方抽樣(Latin Hypercube Sampling, LHS)
 * 貝葉斯優化(Bayesian Optimization)
 
 ---
-## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method [PDF]
+## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/14_Optimization%20of%20Gradient%20Descent%20Method/14_%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.pdf)
 * 梯度下降法(Gradient Descent)
 * 動量的梯度下降法(Gradient Descent with Momentum)
 * AdaGrad(Adaptive Gradient)
