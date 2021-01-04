@@ -166,6 +166,12 @@
 ---
 ## Class 15 分類器的機率切點 Probability Thresholds of Classifier [PDF]
 
+---
+## Class 16 資料後處理 Data Post-processing [PDF]
+* 非最大抑制(Non-maximum suppression, NMS)
+* 軟非最大抑制(Soft Non-maximum suppression, Soft-NMS)
+* 較軟非最大抑制(Softer Non-maximum suppression, Softer-NMS)
+* 距離並交比非最大抑制(Distance IoU Non-maximum suppression, DIoU-NMS)
 
 ---
 ### 教材來源
