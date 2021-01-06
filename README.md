@@ -112,6 +112,7 @@
 * 結構化學習(Structured Learning)
   * Bottom-Up 
   * Top-Down
+* Cycle GAN
 
 ---
 ## Class 10 分類模型的驗證指標 Classification Model Assessment and Validation [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/10_Classification-Model-Assessment-and-Validation/10_%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99.pdf)
