@@ -174,6 +174,9 @@
 * 較軟非最大抑制(Softer Non-maximum suppression, Softer-NMS)
 * 距離並交比非最大抑制(Distance IoU Non-maximum suppression, DIoU-NMS)
 
+## Class 17 目標檢測模型的驗證指標 Object Detection
+* 並交比
+
 ---
 ### 教材來源
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
