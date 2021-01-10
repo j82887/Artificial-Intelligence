@@ -175,7 +175,7 @@
 * 距離並交比非最大抑制(Distance IoU Non-maximum suppression, DIoU-NMS)
 
 ## Class 17 目標檢測模型的驗證指標 Object Detection
-* 並交比(Intersection-over-UnionIoU)
+* 並交比(Intersection-over-UnionIoU, IoU)
 * mAP
 
 ---
