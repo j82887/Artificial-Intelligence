@@ -13,6 +13,9 @@
   * 非監督式學習(Unsupervised Learning)
   * 監督式學習(Supervised Learning)
   * 強化學習(Reinforcement Learning)
+* 資料
+  * 結構化資料
+  * 非結構化資料
 * Google Colab
 
 ---
