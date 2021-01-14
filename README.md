@@ -142,6 +142,7 @@
   * 過取樣(Over-sampling)
 * 合成少數類別過取樣技術(Synthetic Minority Over-sampling Technique)
 * Tomek Link(T-Link)
+* 編輯最近鄰演算法(Edited Nearest Neighbor, ENN)
 
 ---
 ## Class 12 資料前處理 - 特徵縮放 與 獨熱編碼 Feature Scaling and One Hot Encoding [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/12_Feature-Scaling_and_One-Hot-Encoding/12_%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%20-%20%E7%89%B9%E5%BE%B5%E7%B8%AE%E6%94%BE%E8%88%87%E7%8D%A8%E7%86%B1%E7%B7%A8%E7%A2%BC.pdf)
