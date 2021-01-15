@@ -180,6 +180,7 @@
 
 ## Class 17 目標檢測模型的驗證指標 Object Detection
 * 並交比(Intersection-over-UnionIoU, IoU)
+* Average Precision, AP
 * 平均精度均值(mean average precision, mAP)
 
 ---
