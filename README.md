@@ -182,6 +182,7 @@
 * 並交比(Intersection-over-UnionIoU, IoU)
 * 廣義並交比(Generalized Intersection over Union, GIOU)
 * 距離並交比(Distance-IoU, DIoU)
+* 完整並交比(Complete-IoU, CIoU)
 * Average Precision, AP
 * 平均精度均值(mean average precision, mAP)
 
