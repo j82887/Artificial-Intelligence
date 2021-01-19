@@ -13,9 +13,10 @@
   * 非監督式學習(Unsupervised Learning)
   * 監督式學習(Supervised Learning)
   * 強化學習(Reinforcement Learning)
-* 資料
-  * 結構化資料
-  * 非結構化資料
+* 資料格式
+  * 結構化資料(Sturctured Data)
+  * 半結構化資料(Semi-Structured Data)
+  * 非結構化資料(Unstructured Data)
 * Google Colab
 
 ---
