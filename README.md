@@ -29,7 +29,7 @@
 * 隨機梯度下降法(Stochastic Gradient Descent, SGD)
 * 小批量梯度下降法(Mini-batch Gradient Descent, MBGD)
 * 線性回歸實作
-* **Homework 01 身體質量指數預測**
+* **實作 01 身體質量指數預測**
 
 ---
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/03_Logistic-Regression/03_%E9%82%8F%E8%BC%AF%E5%9B%9E%E6%AD%B8.pdf)
@@ -38,8 +38,8 @@
 * 勝算比(Odds Ratio)
 * 正則化(Regularization)
 * 邏輯回歸實作
-* **Homework 02-1 數字手寫辨識**
-* **Homework 02-2 糖尿病預測**
+* **實作 02-1 數字手寫辨識**
+* **實作 02-2 糖尿病預測**
 
 ---
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/04_Decision-Tree%26Random-Forest/04_%E6%B1%BA%E7%AD%96%E6%A8%B9%E8%88%87%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97.pdf)
@@ -52,7 +52,7 @@
 * 隨機森林架構
   * 集成學習(Ensemble Learning)：裝袋(Bagging)、取樣(Sampling)
 * 決策樹與隨機森林實作
-* **Homework 03 字母手寫辨識**
+* **實作 03 字母手寫辨識**
 
 ---
 ## Class 05 機器學習 - 自適應增強 AdaBoost [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/05_AdaBoost/05_%E8%87%AA%E9%81%A9%E6%87%89%E5%A2%9E%E5%BC%B7.pdf)
@@ -77,7 +77,7 @@
 * 激勵函數(Activation Function)
 * 丟棄法(Dropout)
 * 多層感知器實作
-* **Homework 04 貓狗影像辨識**
+* **實作 04 貓狗影像辨識**
 
 ---
 ## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
@@ -98,7 +98,7 @@
 * 自動提取特徵(Automatic Feature Extraction)
 * 權重共享(Shared Weight)
 * 卷積神經網路實作
-* **Homework 05 Cifar100 CNN辨識**
+* **實作 05 Cifar100 CNN辨識**
 
 ---
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/08_Auto-Encoder/08_%E8%87%AA%E7%B7%A8%E7%A2%BC%E5%99%A8.pdf)
