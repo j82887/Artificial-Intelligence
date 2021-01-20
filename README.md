@@ -17,8 +17,8 @@
   * 結構化資料(Sturctured Data)
   * 半結構化資料(Semi-Structured Data)
   * 非結構化資料(Unstructured Data)
-* **實作 01 Google Colab**
-* **實作 02 本機使用Anaconda安裝Python、建立環境與安裝套件**
+* **實作 01-01 Google Colab**
+* **實作 01-02 本機使用Anaconda安裝Python、建立環境與安裝套件**
 
 ---
 ## Class 02 機器學習 - 線性回歸 Linear-Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/02_Linear-Regression/02_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.pdf)
@@ -30,7 +30,7 @@
 * 隨機梯度下降法(Stochastic Gradient Descent, SGD)
 * 小批量梯度下降法(Mini-batch Gradient Descent, MBGD)
 * 線性回歸實作
-* **實作 01 身體質量指數預測**
+* **實作 02-01 身體質量指數預測**
 
 ---
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/03_Logistic-Regression/03_%E9%82%8F%E8%BC%AF%E5%9B%9E%E6%AD%B8.pdf)
@@ -39,8 +39,8 @@
 * 勝算比(Odds Ratio)
 * 正則化(Regularization)
 * 邏輯回歸實作
-* **實作 02-1 數字手寫辨識**
-* **實作 02-2 糖尿病預測**
+* **實作 03-1 數字手寫辨識**
+* **實作 03-2 糖尿病預測**
 
 ---
 ## Class 04 機器學習 - 決策樹與隨機森林 Decision Tree and Random Forest [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/04_Decision-Tree%26Random-Forest/04_%E6%B1%BA%E7%AD%96%E6%A8%B9%E8%88%87%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97.pdf)
@@ -53,7 +53,7 @@
 * 隨機森林架構
   * 集成學習(Ensemble Learning)：裝袋(Bagging)、取樣(Sampling)
 * 決策樹與隨機森林實作
-* **實作 03 字母手寫辨識**
+* **實作 04 字母手寫辨識**
 
 ---
 ## Class 05 機器學習 - 自適應增強 AdaBoost [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/05_AdaBoost/05_%E8%87%AA%E9%81%A9%E6%87%89%E5%A2%9E%E5%BC%B7.pdf)
@@ -78,7 +78,7 @@
 * 激勵函數(Activation Function)
 * 丟棄法(Dropout)
 * 多層感知器實作
-* **實作 04 貓狗影像辨識**
+* **實作 06 貓狗影像辨識**
 
 ---
 ## Class 07-1 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
@@ -99,7 +99,7 @@
 * 自動提取特徵(Automatic Feature Extraction)
 * 權重共享(Shared Weight)
 * 卷積神經網路實作
-* **實作 05 Cifar100 CNN辨識**
+* **實作 07 Cifar100 CNN辨識**
 
 ## Class 07-2 深度學習 - 卷積神經網路架構的演化史 The evolutionary history of CNN architectures [PDF]
 * LeNet
