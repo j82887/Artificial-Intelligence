@@ -81,7 +81,7 @@
 * **實作 04 貓狗影像辨識**
 
 ---
-## Class 07 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
+## Class 07-1 深度學習 - 卷積神經網路 Convolutional Neural Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/07_Convolutional-Neural-Network/07_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf)
 * 卷積層(Convolution Layer)
   * 濾波器/卷積核(Filter / Convolution Kernel)
   * 遮罩/窗口(Mask)
@@ -100,6 +100,14 @@
 * 權重共享(Shared Weight)
 * 卷積神經網路實作
 * **實作 05 Cifar100 CNN辨識**
+
+## Class 07-2 深度學習 - 卷積神經網路架構的演化史 The evolutionary history of CNN architectures [PDF]
+* LeNet
+* AlexNet
+* VGGNet
+* Inception(GoogLeNet)
+* ResNet
+* Res2Net
 
 ---
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/08_Auto-Encoder/08_%E8%87%AA%E7%B7%A8%E7%A2%BC%E5%99%A8.pdf)
