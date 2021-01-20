@@ -17,8 +17,8 @@
   * 結構化資料(Sturctured Data)
   * 半結構化資料(Semi-Structured Data)
   * 非結構化資料(Unstructured Data)
-* **實作 01 Google Colab
-* **實作 02 本機使用Anaconda安裝Python、建立環境與安裝套件
+* **實作 01 Google Colab**
+* **實作 02 本機使用Anaconda安裝Python、建立環境與安裝套件**
 
 ---
 ## Class 02 機器學習 - 線性回歸 Linear-Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/02_Linear-Regression/02_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.pdf)
