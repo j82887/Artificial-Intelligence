@@ -179,7 +179,8 @@
 * 較軟非最大抑制(Softer Non-maximum suppression, Softer-NMS)
 * 距離並交比非最大抑制(Distance IoU Non-maximum suppression, DIoU-NMS)
 
-## Class 17 目標檢測模型的驗證指標 Object Detection
+---
+## Class 17 目標檢測模型的驗證指標 Object Detection [PDF]
 * 並交比(Intersection-over-UnionIoU, IoU)
 * 廣義並交比(Generalized Intersection over Union, GIOU)
 * 距離並交比(Distance-IoU, DIoU)
@@ -187,6 +188,15 @@
 * Average Precision, AP
 * 平均精度均值(mean average precision, mAP)
 
+---
+## Class 18 其他學習方法 Other learning methods [PDF]
+* 遷移學習(Transfer Learning, TL)
+  * 微調(Fine-tune)
+* 聯邦學習(Federated Learning, FL)
+  * 橫向聯邦學習（Horizontal Federated Learning, HFL）
+  * 縱向聯邦學習（Vertical Federated Learning, VFL）
+  * 聯邦遷移學習（Federated Transfer Learning, FTL）
+  
 ---
 ### 教材來源
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
