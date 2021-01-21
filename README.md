@@ -17,6 +17,7 @@
   * 結構化資料(Sturctured Data)
   * 半結構化資料(Semi-Structured Data)
   * 非結構化資料(Unstructured Data)
+* 人工智慧相關工程師
 * **實作 01-01 Google Colab**
 * **實作 01-02 本機使用Anaconda安裝Python、建立環境與安裝套件**
 
