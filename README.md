@@ -195,7 +195,7 @@
 * 廣義並交比(Generalized Intersection over Union, GIOU)
 * 距離並交比(Distance-IoU, DIoU)
 * 完整並交比(Complete-IoU, CIoU)
-* Average Precision, AP
+* 平均精度(Average Precision, AP)
 * 平均精度均值(mean average precision, mAP)
 
 ---
@@ -203,9 +203,9 @@
 * 遷移學習(Transfer Learning, TL)
   * 微調(Fine-tune)
 * 聯邦學習(Federated Learning, FL)
-  * 橫向聯邦學習（Horizontal Federated Learning, HFL）
-  * 縱向聯邦學習（Vertical Federated Learning, VFL）
-  * 聯邦遷移學習（Federated Transfer Learning, FTL）
+  * 橫向聯邦學習(Horizontal Federated Learning, HFL)
+  * 縱向聯邦學習(Vertical Federated Learning, VFL)
+  * 聯邦遷移學習(Federated Transfer Learning, FTL)
   
 ---
 ### 教材來源
