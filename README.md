@@ -103,12 +103,12 @@
 * **實作 07 Cifar100 CNN辨識**
 
 ## Class 07-2 深度學習 - 卷積神經網路架構的演化史 The evolutionary history of CNN architectures [PDF]
-* LeNet
-* AlexNet
-* VGGNet
-* Inception(GoogLeNet)
-* ResNet
-* Res2Net
+* LeNet 1998 [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* AlexNet 2012 [[Paper]](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+* VGGNet 2014 [[Paper]](https://arxiv.org/pdf/1409.1556.pdf)
+* Inception(GoogLeNet) 2014 [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)
+* ResNet 2015 [[Paper]](https://arxiv.org/pdf/1512.03385.pdf)
+* Res2Net 2019 [[Paper]](https://arxiv.org/pdf/1904.01169.pdf)
 
 ---
 ## Class 08 深度學習 - 自編碼器 Auto-Encoder [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/08_Auto-Encoder/08_%E8%87%AA%E7%B7%A8%E7%A2%BC%E5%99%A8.pdf)
