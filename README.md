@@ -206,7 +206,10 @@
   * 橫向聯邦學習(Horizontal Federated Learning, HFL)
   * 縱向聯邦學習(Vertical Federated Learning, VFL)
   * 聯邦遷移學習(Federated Transfer Learning, FTL)
-  
+
+---
+## Class 19 
+
 ---
 ### 教材來源
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
