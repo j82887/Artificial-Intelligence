@@ -209,8 +209,9 @@
 * Edge AI
 
 ---
-## Class 19 
+## Class 19  相關實作 Implementation [PDF]
 * 車牌辨識
+* 口罩辨識
 
 ---
 ### 教材來源
