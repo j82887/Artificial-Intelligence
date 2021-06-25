@@ -190,7 +190,9 @@
 * 距離並交比非最大抑制(Distance IoU Non-maximum suppression, DIoU-NMS)
 
 ---
-## Class 17 目標檢測模型的驗證指標 Object Detection [PDF]
+## Class 17 目標檢測模型 Object Detection [PDF]
+* 技術發展(Technological development)
+* 基於哈爾特徵級聯分類器(Haar Feature-based Cascade Classifiers)
 * 並交比(Intersection-over-UnionIoU, IoU)
 * 廣義並交比(Generalized Intersection over Union, GIOU)
 * 距離並交比(Distance-IoU, DIoU)
