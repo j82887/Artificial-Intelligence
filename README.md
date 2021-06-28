@@ -194,9 +194,9 @@
 * 技術發展(Technological development)
 * 基於哈爾特徵級聯分類器(Haar Feature-based Cascade Classifiers)
 * 並交比(Intersection-over-UnionIoU, IoU)
-* 廣義並交比(Generalized Intersection over Union, GIOU)
-* 距離並交比(Distance-IoU, DIoU)
-* 完整並交比(Complete-IoU, CIoU)
+* 廣義並交比(Generalized Intersection over Union, GIOU) #尚未補充
+* 距離並交比(Distance-IoU, DIoU) #尚未補充
+* 完整並交比(Complete-IoU, CIoU) #尚未補充
 * 平均精度(Average Precision, AP)
 * 平均精度均值(mean average precision, mAP)
 
