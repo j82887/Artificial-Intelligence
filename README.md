@@ -193,10 +193,11 @@
 ## Class 17 目標檢測模型 Object Detection [[PDF]](https://github.com/j82887/Artificial-Intelligence/raw/master/17_Object%20Detection/17_%E7%9B%AE%E6%A8%99%E6%AA%A2%E6%B8%AC%E6%A8%A1%E5%9E%8B.pdf)
 * 技術發展(Technological development)
 * 基於哈爾特徵級聯分類器(Haar Feature-based Cascade Classifiers)
+* 非最大抑制(Non-maximum suppression, NMS)
 * 並交比(Intersection-over-UnionIoU, IoU)
-* 廣義並交比(Generalized Intersection over Union, GIOU) #尚未補充
-* 距離並交比(Distance-IoU, DIoU) #尚未補充
-* 完整並交比(Complete-IoU, CIoU) #尚未補充
+* 廣義並交比(Generalized Intersection over Union, GIOU) **#尚未補充**
+* 距離並交比(Distance-IoU, DIoU) **#尚未補充**
+* 完整並交比(Complete-IoU, CIoU) **#尚未補充**
 * 平均精度(Average Precision, AP)
 * 平均精度均值(mean average precision, mAP)
 
