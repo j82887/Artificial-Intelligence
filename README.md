@@ -120,7 +120,7 @@
 * 權重初始化(Weight Initialization)
 
 ---
-## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network [PDF]
+## Class 09 深度學習 - 生成對抗神經網路 Generative Adversarial Network [[PDF]](https://github.com/j82887/Artificial-Intelligence/raw/master/09_Generative-Adversarial-Network/09_%E7%94%9F%E6%88%90%E5%B0%8D%E6%8A%97%E7%B6%B2%E8%B7%AF.pdf)
 * 生成器(Generator) 
 * 鑑別器(Discriminator) 
 * 結構化學習(Structured Learning)
