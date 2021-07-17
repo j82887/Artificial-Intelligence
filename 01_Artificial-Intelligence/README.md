@@ -35,3 +35,11 @@
 #### 有兩種安裝方式：
 1. 可至PyPI網站上尋找套件名稱，並複製`pip install package_name`輸入至該環境的命令提示字元中
 2. 在該環境中選擇「Not Installed」，對預安裝的套件點擊方框，並選擇「Apply」來安裝
+
+---
+## 補充: Colab與雲端硬碟連接
+* 匯入Google Colab中的套件
+`from google.colab import drive`
+
+* 將自己的雲端硬碟掛載上去
+`drive.mount('/content/gdrive')`
