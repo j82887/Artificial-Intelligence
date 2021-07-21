@@ -202,7 +202,7 @@
 * 平均精度均值(mean average precision, mAP)
 
 ---
-## Class 18 其他學習方法 Other learning methods [PDF]
+## Class 18 其他學習方法 Other Learning Methods [PDF]
 * 遷移學習(Transfer Learning, TL)
   * 微調(Fine-tune)
 * 聯邦學習(Federated Learning, FL)
