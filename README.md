@@ -209,7 +209,7 @@
   * 橫向聯邦學習(Horizontal Federated Learning, HFL)
   * 縱向聯邦學習(Vertical Federated Learning, VFL)
   * 聯邦遷移學習(Federated Transfer Learning, FTL)
-* Edge AI
+* 邊緣AI(Edge AI)
 
 ---
 ## Class 19  相關實作 Implementation [PDF]
