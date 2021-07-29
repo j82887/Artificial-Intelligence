@@ -170,7 +170,7 @@
 * 隨機搜索(Random Search)
 * 拉丁超立方抽樣(Latin Hypercube Sampling, LHS)
 * 貝葉斯優化(Bayesian Optimization)
-* 基因演算法(Genetic AlgorithmsGA)
+* 基因演算法(Genetic AlgorithmsGA) **#尚未補充**
 ---
 ## Class 14 梯度下降法的優化 Optimization of Gradient Descent Method [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/14_Optimization%20of%20Gradient%20Descent%20Method/14_%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.pdf)
 * 梯度下降法(Gradient Descent)
