@@ -181,6 +181,8 @@
 
 ---
 ## Class 15 分類器的機率切點 Probability Thresholds of Classifier [PDF]
+* 最佳臨界值(Optimal Threshold)
+* 指標的選擇(Selection Criteria)
 
 ---
 ## Class 16 資料後處理 Data Post-processing [PDF]
