@@ -180,7 +180,7 @@
 * Adam(Adaptive Moment Estimation)
 
 ---
-## Class 15 分類器的機率切點 Probability Thresholds of Classifier [PDF]
+## Class 15 分類器的機率切點 Probability Thresholds of Classifier [[PDF]](https://github.com/j82887/Artificial-Intelligence/raw/master/15_Probability%20Thresholds%20of%20Classifier/15_%E5%88%86%E9%A1%9E%E5%99%A8%E7%9A%84%E6%A9%9F%E7%8E%87%E5%88%87%E9%BB%9E.pdf)
 * 最佳臨界值(Optimal Threshold)
 * 指標的選擇(Selection Criteria)
 * 醫學檢測觀點(Medical Detection)
