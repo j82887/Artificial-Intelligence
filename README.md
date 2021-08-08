@@ -186,7 +186,7 @@
 * 醫學檢測觀點(Medical Detection)
 
 ---
-## Class 16 資料後處理 Data Post-processing [PDF]
+## Class 16 資料後處理 Data Post-processing [PDF] **#尚未補充**
 * 非最大抑制(Non-maximum suppression, NMS)
 * 軟非最大抑制(Soft Non-maximum suppression, Soft-NMS)
 * 較軟非最大抑制(Softer Non-maximum suppression, Softer-NMS)
