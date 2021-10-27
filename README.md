@@ -205,7 +205,11 @@
 * 平均精度均值(mean average precision, mAP)
 
 ---
-## Class 18 其他學習方法 Other Learning Methods [PDF]
+## Class 18 You only look once [PDF]
+* **#尚未補充**
+
+---
+## Class 19 其他學習方法 Other Learning Methods [PDF]
 * 遷移學習(Transfer Learning, TL)
   * 微調(Fine-tune)
 * 聯邦學習(Federated Learning, FL)
@@ -215,7 +219,7 @@
 * 邊緣AI(Edge AI)
 
 ---
-## Class 19  相關實作 Implementation [PDF]
+## Class 20  相關實作 Implementation [PDF]
 * 人臉辨識 **#尚未補充**
 * 表情辨識 **#尚未補充**
 * 臉部貼圖 **#尚未補充** 
