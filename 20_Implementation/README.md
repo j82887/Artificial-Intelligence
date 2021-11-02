@@ -25,3 +25,5 @@
 * 下載網址：https://drive.google.com/file/d/1FhlSMvnE-93ctoeuFLxWI-pE_YFaS-L6/view?usp=sharing
 
 # 05 口罩辨識
+### A. 標註器
+* 使用labelImg建立影像資料集 (https://github.com/tzutalin/labelImg)
