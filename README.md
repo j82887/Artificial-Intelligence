@@ -230,6 +230,9 @@
 ## Class 21 Explainable ML [PDF]
 
 ---
+## Class 22 Image Segmentation [PDF]
+
+---
 ### 教材來源
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
 
