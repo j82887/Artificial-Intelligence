@@ -1,6 +1,8 @@
 ## 實作 - 貓狗影像資料集
 https://www.kaggle.com/c/dogs-vs-cats/data
 
+https://drive.google.com/drive/folders/1lsx2hHHw6CdSEBpfa1E6c92Xh2SSLV8y?usp=sharing
+
 ## 01. 安裝套件
 1. pip install keras==1.0.8
 2. pip install tensorflow== 1.13.1 --user 
