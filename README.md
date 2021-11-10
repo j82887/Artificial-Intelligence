@@ -231,8 +231,9 @@
 
 ---
 ## Class 22 Image Segmentation [PDF]
-* U-Net
-* Dice Loss
+* U型神經網路 (U-Net)
+* 骰子損失 (Dice Loss)
+* 骰子係數 (Dice Coefficient)
 
 ---
 ### 教材來源
