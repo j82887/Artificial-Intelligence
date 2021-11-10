@@ -231,6 +231,8 @@
 
 ---
 ## Class 22 Image Segmentation [PDF]
+* U-Net
+* Dice Loss
 
 ---
 ### 教材來源
