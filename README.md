@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-![GITHUB](https://www.edntaiwan.com/wp-content/uploads/sites/6/images/7447e8f3-110b-4a56-82e9-9cf540145331.gif)
+![GITHUB](https://blog.zoho.com/wp-content/uploads/2019/10/new-gear-1-Converted.gif)
 
 ## Class 01 人工智慧 Artificial-Intelligence [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/01_Artificial-Intelligence/01_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7.pdf)
 * 人工智慧發展史(The History of Artificial Intelligence)
