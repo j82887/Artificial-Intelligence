@@ -37,6 +37,7 @@
 ## Class 03 機器學習 - 邏輯回歸 Logistic Regression [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/03_Logistic-Regression/03_%E9%82%8F%E8%BC%AF%E5%9B%9E%E6%AD%B8.pdf)
 * 邏輯/乙狀函數(Logistic / Sigmoid Function)
 * 最大似然函數(Maximum Likelihood Function)
+* 二元交叉熵(Binary Cross-Entropy)
 * 勝算比(Odds Ratio)
 * 正則化(Regularization)
 * 邏輯回歸實作
