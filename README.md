@@ -164,7 +164,10 @@
 * 特徵處理/編碼(Feature Processing / Coding)
   * 排序行編碼(Sequential Encoding)
   * 獨熱編碼(One Hot Encoding)
-  
+* 多元標註方式
+  * 多元類別(Multiclass)
+  * 多元標籤(Multilabel)
+  * 多元任務(Multitask) 
 ---  
 ## Class 13 超參數搜索 Hyperparameter Search [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/13_Hyperparameter-Search/13_%E8%B6%85%E5%8F%83%E6%95%B8%E6%90%9C%E7%B4%A2.pdf)
 * 均格/網格搜索(Grid Search)
