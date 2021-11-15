@@ -1,5 +1,5 @@
 # Artificial-Intelligence
- 1
+
 ![GITHUB](https://seoserviceinindia.co.in/Blog/wp-content/uploads/2019/12/How-To-Pick-The-Right-Chatbot-For-Your-Business.gif)
 
 ## Class 01 人工智慧 Artificial-Intelligence [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/01_Artificial-Intelligence/01_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7.pdf)
