@@ -103,7 +103,11 @@
 * 卷積神經網路實作
 * **實作 07 Cifar100 CNN辨識**
 
-## Class 07-2 深度學習 - 卷積神經網路架構的演化史 The evolutionary history of CNN architectures [PDF]
+---
+## Class 07-02 深度學習 - 自注意力機制 Self-Attention [PDF]
+
+---
+## Class 07-3 深度學習 - 卷積神經網路架構的演化史 The evolutionary history of CNN architectures [PDF]
 * LeNet 1998 [[Paper]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 * AlexNet 2012 [[Paper]](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 * VGGNet 2014 [[Paper]](https://arxiv.org/pdf/1409.1556.pdf)
