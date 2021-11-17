@@ -241,6 +241,8 @@
 ---
 ## Class 22 Image Segmentation [PDF]
 * U型神經網路 (U-Net)
+* 反卷積 (Deconvolution, Transposed Convolution)
+* 反池化 (UnPooling)
 * 骰子損失 (Dice Loss)
 * 骰子係數 (Dice Coefficient)
 
