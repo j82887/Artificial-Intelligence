@@ -237,9 +237,11 @@
 
 ---
 ## Class 21 Explainable ML [PDF]
-* 簡單可解釋性模型 (Simple and Interpretable Models)
-* 可解釋性黑盒模型 (Interpreting Black Box Models)
-* 
+* 可解釋性的重要性 (Importance of Interpretability)
+* 模型：
+  * 簡單可解釋性模型 (Simple and Interpretable Models)
+  * 可解釋性黑盒模型 (Interpreting Black Box Models)
+ 
 ---
 ## Class 22 Image Segmentation [PDF]
 * U型神經網路 (U-Net)
