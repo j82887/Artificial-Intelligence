@@ -244,6 +244,9 @@
  
 ---
 ## Class 22 Image Segmentation [PDF]
+* 語義分割 (Semantic Segmentation)
+* 實例分割 (Instance Segmentation)
+* 全景分割 (Panoramic Segmentation)
 * U型神經網路 (U-Net)
 * 反卷積 (Deconvolution, Transposed Convolution)
 * 反池化 (UnPooling)
