@@ -78,6 +78,10 @@
 * 線性可分與線性不可分(Linear and Non-linear Separability)
 * 梯度消失(Vanishing Gradient)
 * 激勵函數(Activation Function)
+  * Linear
+  * Sigmoid 
+  * Tanh
+  * ReLU (Rectified Linear Unit)
 * 丟棄法(Dropout)
 * 多層感知器實作
 * **實作 06 貓狗影像辨識**
