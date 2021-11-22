@@ -54,6 +54,7 @@
     * 後剪枝(Post-pruning)
 * 隨機森林架構
   * 集成學習(Ensemble Learning)：裝袋(Bagging)、取樣(Sampling)
+* 決策樹與隨機森林的特徵重要性
 * 決策樹與隨機森林實作
 * **實作 04 字母手寫辨識**
 
