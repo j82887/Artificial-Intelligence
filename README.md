@@ -242,14 +242,14 @@
 * 石材分割 **#尚未補充**
 
 ---
-## Class 21 Explainable ML [PDF]
+## Class 21 解釋性機器學習 Explainable ML [PDF]
 * 可解釋性的重要性 (Importance of Interpretability)
 * 模型：
   * 簡單可解釋性模型 (Simple and Interpretable Models)
   * 可解釋性黑盒模型 (Interpreting Black Box Models)
  
 ---
-## Class 22 Image Segmentation [PDF]
+## Class 22 影像分割 Image Segmentation [PDF]
 * 語義分割 (Semantic Segmentation)
 * 實例分割 (Instance Segmentation)
 * 全景分割 (Panoramic Segmentation)
@@ -258,6 +258,9 @@
 * 反池化 (UnPooling)
 * 骰子損失 (Dice Loss)
 * 骰子係數 (Dice Coefficient)
+
+---
+## Class 23 目標跟隨 Objects Tracking [PDF]
 
 ---
 ### 教材來源
