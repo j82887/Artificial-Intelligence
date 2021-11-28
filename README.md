@@ -261,6 +261,7 @@
 
 ---
 ## Class 23 目標跟隨 Objects Tracking [PDF]
+* Deep sort
 * **實作 23-1 單一目標跟隨-取攝影機第一畫面指定目標**
 ---
 ### 教材來源
