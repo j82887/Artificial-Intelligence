@@ -263,7 +263,7 @@
 ## Class 23 目標跟隨 Objects Tracking [PDF]
 * 靜態背景的目標追蹤 (Algorithm of Moving Object Track in Static Background)
 * 動態背景的目標追蹤 (Algorithm of Moving Object Track in Dynamic Background)
-* 深度排序 (Deep Sort)
+* 深度簡易線上與即時追蹤 (Deep Simple Online And Realtime Tracking, Deep Sort)
 * **實作 23-1 單一目標跟隨-取攝影機第一畫面指定目標**
 ---
 ### 教材來源
