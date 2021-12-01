@@ -264,6 +264,8 @@
 * 靜態背景的目標追蹤 (Algorithm of Moving Object Track in Static Background)
 * 動態背景的目標追蹤 (Algorithm of Moving Object Track in Dynamic Background)
 * 深度簡易線上與即時追蹤 (Deep Simple Online And Realtime Tracking, Deep Sort)
+* 單目標追蹤 (Single-Object Track, SOT)
+* 多目標追蹤 (Multi-Object Track, MOT)
 * **實作 23-1 單一目標跟隨-取攝影機第一畫面指定目標**
 ---
 ### 教材來源
