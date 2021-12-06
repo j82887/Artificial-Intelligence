@@ -9,4 +9,8 @@
   * -w 使用視窗，無控制台
   * -c 使用控制台，無視窗
   * -D 創建一個目錄資料夾，包含exe執行檔案及其他一些依賴性文件
-  * 加入--hiddenimport手動匯入套件包 安裝完後找不到套件用，如：`pyinstaller -F --hiddenimport [套件名稱] [要打包的.py檔]`
+  * --hiddenimport 手動加入匯入套件包(打包完後找不到套件時用)，如：`pyinstaller -F --hiddenimport [套件名稱] [要打包的.py檔]`
+  * --exclude-module 手動移除套件包，如`pyinstaller --clean -F test.py --exclude-module [套件名稱]`
+  * 從上個打包產生的spec檔案，繼續打包： pyinstaller --clean -F test.spec
+
+* **備註** 容易打包後的檔案太大，原因為打包許多不必要的套件。盡量以`from xxx import xxx`方式打包，相較於`import xxx`來得好。
