@@ -221,6 +221,7 @@
 ---
 ## Class 18 You only look once [PDF]
 * **#尚未補充**
+* 消融實驗(Ablation Experiment)
 
 ---
 ## Class 19 其他學習方法 Other Learning Methods [PDF]
