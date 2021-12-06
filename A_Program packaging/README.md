@@ -13,4 +13,8 @@
   * --exclude-module 手動移除套件包，如`pyinstaller --clean -F test.py --exclude-module [套件名稱]`
   * 從上個打包產生的spec檔案，繼續打包： pyinstaller --clean -F test.spec
 
-* **備註** 容易打包後的檔案太大，原因為打包許多不必要的套件。盡量以`from xxx import xxx`方式打包，相較於`import xxx`來得好。
+* **備註** 
+* 1. 容易打包後的檔案太大，原因為打包許多不必要的套件。
+  * 盡量以`from xxx import xxx`方式打包，相較於`import xxx`來得好
+  * 建立一新的環境，只安裝需要使用的套件
+  * --exclude-module 手動移除套件包
