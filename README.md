@@ -271,11 +271,10 @@
 ---
 
 ## 補充
-## Class A. 打包執行檔 [PDF]
-* Pyinstaller
-
-## Class B. 圖形化介面 [PDF]
-* Tkinter
+* Class A. 打包執行檔 [PDF]
+  * Pyinstaller
+* Class B. 圖形化介面 [PDF]
+  * Tkinter
 
 ---
 ### 教材來源
