@@ -275,7 +275,7 @@
   * Pyinstaller
 * Class B. 圖形化介面 [PDF]
   * Tkinter
-
+* Class C. 資料處理 [PDF]
 ---
 ### 教材來源
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
