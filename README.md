@@ -109,8 +109,9 @@
 * **實作 07 Cifar100 CNN辨識**
 
 ---
-## Class 07-02 深度學習 - 自注意力機制 Self-Attention [PDF]
+## Class 07-02 深度學習 - 注意力機制 Attention [PDF]
 * Query, Key, Value
+* 自注意力機制 (Self-Attention)
 
 ---
 ## Class 07-3 深度學習 - 卷積神經網路架構的演化史 The evolutionary history of CNN architectures [PDF]
