@@ -12,6 +12,7 @@
 * 人工智慧的學習方法
   * 非監督式學習(Unsupervised Learning)
   * 監督式學習(Supervised Learning)
+  * 半監督式學習(Semi-supervised Learning)
   * 強化學習(Reinforcement Learning)
 * 資料格式
   * 結構化資料(Sturctured Data)
