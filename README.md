@@ -274,6 +274,9 @@
 * **實作 23-1 單一目標跟隨-取攝影機第一畫面指定目標**
 ---
 
+## Class 24 循環神經網路 Recurrent Neural Network, RNN [PDF]
+
+---
 ## 補充
 * Class A. 打包執行檔 Pyinstaller [PDF]
 * Class B. 圖形化介面 Tkinter [PDF]
