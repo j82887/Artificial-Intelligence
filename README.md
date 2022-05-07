@@ -277,6 +277,9 @@
 ## Class 24 循環神經網路 Recurrent Neural Network, RNN [PDF]
 
 ---
+## Class 25 長短期記憶 Long Short-Term Memory, LSTM [PDF]
+
+---
 ## 補充
 * Class A. 打包執行檔 Pyinstaller [PDF]
 * Class B. 圖形化介面 Tkinter [PDF]
