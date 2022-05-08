@@ -280,6 +280,9 @@
 ## Class 25 長短期記憶 Long Short-Term Memory, LSTM [PDF]
 
 ---
+## Class 26 Gated Recurrent Unit, GRU [PDF]
+
+---
 ## 補充
 * Class A. 打包執行檔 Pyinstaller [PDF]
 * Class B. 圖形化介面 Tkinter [PDF]
