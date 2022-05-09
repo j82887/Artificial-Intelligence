@@ -276,10 +276,10 @@
 
 ## Class 24 循環神經網路 Recurrent Neural Network, RNN [PDF]
 * 不同數量的輸入與輸出模型
- * One to One
- * One to Many
- * Many to One
- * Many to Many
+  * One to One
+  * One to Many
+  * Many to One
+  * Many to Many
 ---
 ## Class 25 長短期記憶 Long Short-Term Memory, LSTM [PDF]
 
