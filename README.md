@@ -252,6 +252,7 @@
 * 模型：
   * 簡單可解釋性模型 (Simple and Interpretable Models)
   * 可解釋性黑盒模型 (Interpreting Black Box Models)
+  * 影像視覺化熱圖 (Heat Map)
  
 ---
 ## Class 22 影像分割 Image Segmentation [PDF]
