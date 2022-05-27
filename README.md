@@ -1,6 +1,5 @@
 # Artificial-Intelligence
 
-
 ## Class 01 人工智慧 Artificial-Intelligence [[PDF]](https://github.com/j82887/Artificial-Intelligence/blob/master/01_Artificial-Intelligence/01_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7.pdf)
 * 人工智慧發展史(The History of Artificial Intelligence)
 * 人工智慧的任務(The Basic Objectives of Artificial Intelligence)
@@ -294,9 +293,3 @@
 ---
 ### 教材來源
 此教材由該作者(Chieh-Ming)統整，只提供教學或學習之目的。
-
-* 台大電機系李弘毅教授 https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ
-* 台大資工系林軒田教授 https://www.csie.ntu.edu.tw/~htlin/mooc/
-* 莫凡 https://morvanzhou.github.io/
-* 彭彭 https://www.youtube.com/user/padalab
-* 大數軟體有限公司 https://www.youtube.com/channel/UCFdTiwvDjyc62DBWrlYDtlQ
