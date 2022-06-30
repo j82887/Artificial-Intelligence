@@ -232,6 +232,8 @@
   * 縱向聯邦學習(Vertical Federated Learning, VFL)
   * 聯邦遷移學習(Federated Transfer Learning, FTL)
 * 邊緣AI(Edge AI)
+  * 模型量化
+  * 模型修剪
 
 ---
 ## Class 20  相關實作 Implementation [PDF]
