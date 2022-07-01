@@ -233,6 +233,8 @@
   * 聯邦遷移學習(Federated Transfer Learning, FTL)
 * 邊緣AI(Edge AI)
   * 模型量化
+    * 訓練後量化（Post Training Quantization, PTQ)
+    * 量化感知訓練（Quantization-Aware Training, QAT)
   * 模型修剪
 
 ---
