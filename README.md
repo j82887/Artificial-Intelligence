@@ -223,6 +223,7 @@
 * **#尚未補充**
 * 消融實驗(Ablation Experiment)
 * YOLO v4
+* YOLOR
 * YOLO v7
 
 ---
