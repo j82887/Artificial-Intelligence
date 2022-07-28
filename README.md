@@ -225,6 +225,7 @@
 * YOLO v4
 * YOLO v5
 * YOLOR
+* YOLO v6
 * YOLO v7
 
 ---
